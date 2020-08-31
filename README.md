@@ -1,6 +1,6 @@
 ### Hi there, I'm Kaif. Computer Scientist by passion & profession 💻. Also a cybersecurity hobbyist. 
 
-Currently I am involved with Microsoft and Melbourne Space Program. 💡 I am fascinated by everything in the tech word and at present I'm learning about web application security and machine learning. 🎯 My 2020 goal is learn more about how the web works and how I can keep others and myself secure. 
+Currently I am involved with Microsoft and Melbourne Space Program. 💡 I am fascinated by everything in the tech word and at present I'm learning about web application security and machine learning. 🎯 My 2020 goal is learn more about how the web works and how I can keep others and myself secure. Always striving to improve myself.
 
 Connect with me:  &nbsp; &nbsp;
 [<img alt="Kaif-Ahsan | LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp; &nbsp;
