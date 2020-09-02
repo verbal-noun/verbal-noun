@@ -1,6 +1,6 @@
 ### Hi there, I'm Kaif. A computer scientist by passion & profession :octocat: And a cybersecurity hobbyist 💻
 
-Currently I am involved with Microsoft and Melbourne Space Program. 💡 I am fascinated by everything in the tech word and at present I'm learning about web application security and machine learning. 🎯 My 2020 goal is learn more about how the web works and how I can keep others and myself secure. Always striving to improve myself.
+Currently I am involved with Microsoft and Melbourne Space Program. 💡 I am fascinated by everything in the tech word and at present I'm learning about web application security and machine learning. 🎯 My 2020 goal is learn more about how the web works and how I can keep others and myself secure. Always trying learn new things and striving to improve myself.
 
 Fun facts about me: 
 - I can speak 4 languages; English, Bengali, Hindi and Memes (my favorite one). Learning Mandarin.💬
