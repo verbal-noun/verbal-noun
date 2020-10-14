@@ -11,7 +11,7 @@ Connect with me:  &nbsp; &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=verbal-noun&hide=issues,stars&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=1"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verbal-noun&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/verbal-noun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verbal-noun&layout=compact&langs_count=6&count_private=true&theme=tokyonight)](https://github.com/verbal-noun)
 
 
 [linkedin]: https://www.linkedin.com/in/kaif-ahsan/
