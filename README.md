@@ -8,7 +8,7 @@ Connect with me:  &nbsp; &nbsp;
 [<img alt="Kaif-Ahsan | Email" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />][email] &nbsp; &nbsp;
 
 <a href="https://github.com/verbal-noun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=verbal-noun&hide=issues,stars&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=1"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=verbal-noun&hide=issues&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=1"/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verbal-noun&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/verbal-noun)
